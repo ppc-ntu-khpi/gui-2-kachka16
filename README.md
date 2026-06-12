@@ -1,4 +1,3 @@
-<img width="542" height="522" alt="image" src="https://github.com/user-attachments/assets/88006dab-1d56-41ac-ab56-67fa5d6b607d" /># Звіт о практичній роботі
 
 ## Завдання 1
 
